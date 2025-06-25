@@ -1,0 +1,98 @@
+/* _content/Animal_Health_System.PL/Areas/Dashboard/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-nrmbberj2d] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-nrmbberj2d] {
+  color: #0077cc;
+}
+
+.btn-primary[b-nrmbberj2d] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-nrmbberj2d], .nav-pills .show > .nav-link[b-nrmbberj2d] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-nrmbberj2d] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-nrmbberj2d] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-nrmbberj2d] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-nrmbberj2d] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-nrmbberj2d] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/Animal_Health_System.PL/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-r1ghsmbiko] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-r1ghsmbiko] {
+  color: #0077cc;
+}
+
+.btn-primary[b-r1ghsmbiko] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-r1ghsmbiko], .nav-pills .show > .nav-link[b-r1ghsmbiko] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-r1ghsmbiko] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-r1ghsmbiko] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-r1ghsmbiko] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-r1ghsmbiko] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-r1ghsmbiko] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
